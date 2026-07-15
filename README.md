@@ -13,7 +13,18 @@ bedrooms :- It determines number of bedrooms in a house.
 bathrooms :- It determines number of bathrooms in a bedroom of a house. ...
 
 ### Explaining the machine learning steps and decisions made throughout the project.
-7 regressionsmodelle wurden behandelt. knn, linear, pregressive, (nicht log.,) MultiTree/Random Forrest  uswusf., 
+7 regressionsmodelle wurden behandelt. 
+* Linear Models
+ Linear Regression
+ Ridge
+ Lasso
+ Logistic Regression (classification?)
+* Tree-based (Ensemble) Methods
+ Decision Tree (AdaBoost)
+ Random Forest (Bagging)
+ Gradient Boosting
+ XGBoost
+ 
 preprocessing - clean data
 split
 model choosing
