@@ -1,7 +1,7 @@
 # IronKaggle
 
 
-https://www.kaggle.com/datasets/minasameh55/king-country-houses-aa
+https://www.kaggle.com/datasets/minasameh55/king-country-houses-aa CITE:"
 The dataset cantains 20 house features plus the price, along with 21613 observations.
 
 The description for the 20 features is given below:
@@ -10,7 +10,7 @@ id :- It is the unique numeric number assigned to each house being sold.
 date :- It is the date on which the house was sold out.
 price:- It is the price of house which we have to predict so this is our target variable and aprat from it are our features.
 bedrooms :- It determines number of bedrooms in a house.
-bathrooms :- It determines number of bathrooms in a bedroom of a house. ...
+bathrooms :- It determines number of bathrooms in a bedroom of a house. "...
 
 ### Explaining the machine learning steps and decisions made throughout the project.
 7 regressionsmodelle wurden behandelt. 
@@ -50,6 +50,14 @@ Deliverables:
 - A Jupyter Notebook containing all analysis, code, and results.
 - A Presentation (15 minutes) summarizing your ML process, insights, and final model.
 - A README file explaining your workflow, reasoning, and key decisions.
+
+starting pts 1-4: in mycode.ipynb; 
+
+baseline models (-8): in RegressionModels.ipynb; 
+
+9a: Feature Engineering.ipynb; 
+
+9b - end: in RegressionModels.ipynb
 
 
 jupyter nb - alle Techniken
